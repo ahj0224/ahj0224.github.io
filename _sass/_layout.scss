@@ -289,11 +289,11 @@
 	h1 { margin-top: 0.7em; line-height: 1.2em;}
   .col-xs-4 {
       img {
-          max-height:300px;
+          max-height:200px;
           margin: auto;
           display: block;
       }
-      @media screen and (max-width: 480px) {
+      @media screen and (max-width: 300px) {
           padding-right: 5px;
           padding-left: 5px;
       }
