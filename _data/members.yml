@@ -13,23 +13,18 @@ PI:
   loop: 406457
 
 Members:
-- name: 전학생
-  engName: Byeong-Min Lee
-  degree: DDS, BS
-  bio: Calcium Imaging, Alchemy
-  period: 2015/3-
-  jobtitle: DDS/PhD Student
-  portrait:
-  e-mail: bmjj88@snu.ac.kr
-  web:
-  scopus:
-  orcid:
-  researcherID:
-  loop:
-  linked:
-  fb: byeongmin.lee.9
-  twitter:
-  instagram:
+- name: 최성필
+  engName: Sung-Pil Choi
+  degree: PhD
+  bio: Electrophysiology, Computational Biology
+  jobtitle: Associate Professor
+  portrait: anonymous.jpg
+  e-mail: spchoi@kyonggi.ac.kr
+  web: https://spasis.github.io/
+  scopus: 7102049033
+  orcid: 0000-0002-8036-0879
+  researcherID: C-5714-2008
+  loop: 406457
 
 - name: 다른학생
   engName: Next Student
