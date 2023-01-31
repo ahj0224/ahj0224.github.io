@@ -1,20 +1,16 @@
 PI:
-- name: 나교수
-  engName: Gehoon Chung
-  degree: DDS, PhD
+- name: 최성필
+  engName: Sung-Pil Choi
+  degree: PhD
   bio: Electrophysiology, Computational Biology
   jobtitle: Associate Professor
   portrait: anonymous.jpg
-  e-mail: gehoon@snu.ac.kr
-  web: https://wiki.snu.ac.kr/GehoonChung
+  e-mail: spchoi@kyonggi.ac.kr
+  web: https://spasis.github.io/
   scopus: 7102049033
   orcid: 0000-0002-8036-0879
   researcherID: C-5714-2008
   loop: 406457
-  linked: gehoon
-  fb: byeongmin.lee.9
-  twitter: gehoon
-  instagram: gehoon
 
 Members:
 - name: 전학생
